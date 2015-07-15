@@ -125,6 +125,17 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         (
             (
+                ('http://scikit-learn.org', "scikit-learn"),
+                ('http://sklearn-theano.github.io', "sklearn-theano"),
+                ('http://github.com/dagbldr/dagbldr', "dagbldr"),
+                ('http://github.com/tensorlib/tensorlib', "tensorlib"),
+                ('http://github.com/kastnerkyle/arrayprocessing',
+                 "arrayprocessing"),
+            ),
+            "Projects I Am Involved In",
+        ),
+        (
+            (
                 ('http://kkjkok.blogspot.com/', "MyOtherNotes"),
                 ('http://pushbuttonrobotics.weebly.com/', "PushButtonRobotics"),
                 ('http://www.fastml.com/', "FastML"),
@@ -133,14 +144,15 @@ NAVIGATION_LINKS = {
                 ('http://blog.smellthedata.com/', "SmellTheData"),
                 ('http://jakevdp.github.io/', "PythonicPerambulations")
             ),
-        "Good Blogs",
+            "Good Blogs",
         ),
         (
             (
                 ('http://github.com/kastnerkyle', "GitHub"),
                 ('http://twitter.com/kastnerkyle', "Twitter"),
                 ('http://plus.google.com/+KyleKastner', "Google+"),
-                ('http://www.linkedin.com/pub/kyle-kastner/24/605/4a1', "LinkedIn"),
+                ('http://www.linkedin.com/pub/kyle-kastner/24/605/4a1',
+                 "LinkedIn"),
                 ('http://www.kaggle.com/users/107564/kyle-kastner', "Kaggle"),
             ),
             "Social Media",
