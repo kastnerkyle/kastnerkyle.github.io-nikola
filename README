@@ -1,0 +1,12 @@
+Setup following tutorial
+http://sampathweb.com/posts/blogging-made-easy.html
+
+and 
+
+http://www.damian.oquanta.info/posts/zen-themes-updated.html
+
+Also had to set 
+
+export LANG=en_US.UTF-8
+
+in ~/.bashrc
