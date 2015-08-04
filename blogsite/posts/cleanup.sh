@@ -1,6 +1,7 @@
 #!/bin/bash
 rm *.zip
 rm *.mat
+rm *.hdf5
 rm *.webm
 rm *.mp4
 rm *.csv
