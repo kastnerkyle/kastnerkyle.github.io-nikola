@@ -10,3 +10,18 @@ Also had to set
 export LANG=en_US.UTF-8
 
 in ~/.bashrc
+
+There seem to be issues with nikola > 7.6 and Jupyter server 4.5, and python > 2.7 in Anaconda
+
+Working version information:
+
+Nikola 7.6.0
+
+Python 2.7.11 |Anaconda 4.0.0 (64-bit)| (default, Dec  6 2015, 18:08:32) 
+Type "copyright", "credits" or "license" for more information.
+
+IPython 4.1.2 -- An enhanced Interactive Python.
+?         -> Introduction and overview of IPython's features.
+%quickref -> Quick reference.
+help      -> Python's own help system.
+object?   -> Details about 'object', use 'object??' for extra details.
